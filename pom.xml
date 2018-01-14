@@ -333,6 +333,7 @@
 		  	<artifactId>jpush-client</artifactId>
 		  	<version>2.2.0</version>
 		</dependency>
+		
     </dependencies>
     <build>
         <finalName>maven</finalName>
